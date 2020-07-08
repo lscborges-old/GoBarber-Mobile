@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <android.arch.core/>
   <android.arch.lifecycle/>
@@ -148,4 +148,5 @@
   <org.jetbrains.kotlin/>
   <tools.base.build-system.debug/>
   <zipflinger/>
+  <com.google.android.ump/>
 </metadata>

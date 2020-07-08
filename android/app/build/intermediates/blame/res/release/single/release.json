@@ -228,6 +228,10 @@
         "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assets_logo.png.flat",
+        "source": "/home/lscborges1/Development/appgobarber/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assets_logo.png"
+    },
+    {
         "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -1148,6 +1152,10 @@
         "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assets_logo.png.flat",
+        "source": "/home/lscborges1/Development/appgobarber/android/app/build/generated/res/react/release/drawable-xhdpi/src_assets_logo.png"
+    },
+    {
         "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
@@ -1190,6 +1198,10 @@
     {
         "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/home/lscborges1/Development/appgobarber/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json"
     },
     {
         "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1536,12 +1548,12 @@
         "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable_abc_ic_search_api_material.xml.flat",
-        "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/animator_mtrl_chip_state_list_anim.xml.flat",
         "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/res/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/drawable/abc_ic_search_api_material.xml"
     },
     {
         "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/layout_redbox_view.xml.flat",
@@ -2190,6 +2202,10 @@
     {
         "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/layout_mtrl_calendar_horizontal.xml.flat",
         "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/res/layout/mtrl_calendar_horizontal.xml"
+    },
+    {
+        "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_logo.png.flat",
+        "source": "/home/lscborges1/Development/appgobarber/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_logo.png"
     },
     {
         "merged": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",

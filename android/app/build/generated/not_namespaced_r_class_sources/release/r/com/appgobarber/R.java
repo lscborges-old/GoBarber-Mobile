@@ -6496,9 +6496,10 @@ public final class R {
     public static final int notification_tile_bg=0x7f07008d;
     public static final int notify_panel_notification_icon_bg=0x7f07008e;
     public static final int redbox_top_border_background=0x7f07008f;
-    public static final int test_custom_background=0x7f070090;
-    public static final int tooltip_frame_dark=0x7f070091;
-    public static final int tooltip_frame_light=0x7f070092;
+    public static final int src_assets_logo=0x7f070090;
+    public static final int test_custom_background=0x7f070091;
+    public static final int tooltip_frame_dark=0x7f070092;
+    public static final int tooltip_frame_light=0x7f070093;
   }
   public static final class id {
     public static final int ALT=0x7f080000;
@@ -6960,6 +6961,7 @@ public final class R {
   public static final class raw {
     public static final int app=0x7f0e0000;
     public static final int node_modules_csscolorkeywords_colors=0x7f0e0001;
+    public static final int node_modules_reactnativevectoricons_glyphmaps_feather=0x7f0e0002;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0f0000;
