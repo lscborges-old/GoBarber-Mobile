@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lscborges1/Development/appgobarber/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/home/lscborges1/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
