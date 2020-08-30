@@ -43,7 +43,7 @@ const Dashboard: React.FC = () => {
   const navigateToProfile = useCallback(() => {
     // navigate('Profile');
     signOut();
-  }, []);
+  }, [signOut]);
 
   const navigateToCreateAppointment = useCallback(
     (providerId: string) => {
@@ -67,7 +67,8 @@ const Dashboard: React.FC = () => {
         >
           <UserAvatar
             source={{
-              uri: user.avatar_url,
+              uri:
+                user.avatar_url,
             }}
           />
         </ProfileButton>
