@@ -69,7 +69,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/layout/redbox_item_frame.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -229,7 +229,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/anim/catalyst_push_up_in.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/xml_standalone_badge.xml.flat",
@@ -449,7 +449,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/anim/catalyst_push_up_out.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
@@ -601,7 +601,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/layout/dev_loading_view.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/layout_mtrl_picker_header_selection_text.xml.flat",
@@ -685,7 +685,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/xml_rn_dev_preferences.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/xml/rn_dev_preferences.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/xml/rn_dev_preferences.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/color_mtrl_choice_chip_background_color.xml.flat",
@@ -925,7 +925,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/drawable_redbox_top_border_background.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/drawable/redbox_top_border_background.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/drawable/redbox_top_border_background.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1373,7 +1373,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/layout/redbox_item_title.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/layout_mtrl_alert_dialog_title.xml.flat",
@@ -1781,7 +1781,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/anim/catalyst_fade_in.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/color_material_on_surface_disabled.xml.flat",
@@ -1957,7 +1957,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/layout/fps_view.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/layout/fps_view.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
@@ -2061,7 +2061,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/anim/catalyst_slide_up.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/color_mtrl_filled_icon_tint.xml.flat",
@@ -2377,7 +2377,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/anim/catalyst_fade_out.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -2389,7 +2389,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/anim/catalyst_slide_down.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/layout_mtrl_picker_text_input_date_range.xml.flat",
@@ -2453,7 +2453,7 @@
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/579cd9130b7d20a8035f9573d7ac89fa/jetified-react-native-0.62.2/res/layout/redbox_view.xml"
+        "source": "/home/lucasborges/.gradle/caches/transforms-2/files-2.1/21026c16df431803b7406f97ee7cdf36/jetified-react-native-0.62.2/res/layout/redbox_view.xml"
     },
     {
         "merged": "/home/lucasborges/www/GoBarber-Mobile/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
