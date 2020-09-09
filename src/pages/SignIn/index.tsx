@@ -31,7 +31,7 @@ import {
   ForgotPasswordText,
   CreateAccountButton,
   CreateAccountText,
-} from './style';
+} from './styles';
 
 interface SignInFormData {
   email: string;

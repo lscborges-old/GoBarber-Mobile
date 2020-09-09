@@ -22,7 +22,7 @@ import Button from '../../components/Button';
 
 import logoImg from '../../assets/logo.png';
 
-import { Container, Title, BackToSignIn, BackToSignInText } from './style';
+import { Container, Title, BackToSignIn, BackToSignInText } from './styles';
 
 interface SignUpFormData {
   name: string;
@@ -61,7 +61,6 @@ const SignUp: React.FC = () => {
 
         navigation.goBack();
       } catch (err) {
-        console.log(err);
         if (err instanceof Yup.ValidationError) {
           const errors = getValidationErrors(err);
           formRef.current?.setErrors(errors);
