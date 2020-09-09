@@ -29,14 +29,16 @@ import {
 } from './styles';
 import { useAuth } from '../../hooks/auth';
 
-interface SignUpFormData {
+interface ProfileFormData {
   name: string;
   email: string;
   password: string;
+  old_password: string;
+  password_confirmation: string;
 }
 
 const Profile: React.FC = () => {
-  const { user } = useAuth();
+  const { user, updateUser } = useAuth();
 
   const formRef = useRef<FormHandles>(null);
   const navigation = useNavigation();
@@ -47,7 +49,7 @@ const Profile: React.FC = () => {
   const confirmPasswordInputRef = useRef<TextInput>(null);
 
   const handleSignUp = useCallback(
-    async (data: SignUpFormData) => {
+    async (data: ProfileFormData) => {
       try {
         formRef.current?.setErrors({});
         const schema = Yup.object().shape({
@@ -69,16 +71,36 @@ const Profile: React.FC = () => {
             })
             .oneOf([Yup.ref('password'), undefined], 'Confirmação incorreta'),
         });
+
         await schema.validate(data, {
           abortEarly: false,
         });
 
-        await api.post('/users', data);
+        const {
+          email,
+          name,
+          old_password,
+          password,
+          password_confirmation,
+        } = data;
 
-        Alert.alert(
-          'Cadastro realizado com sucesso!',
-          'Você já pode fazer login na aplicação.',
-        );
+        const formData = {
+          name,
+          email,
+          ...(old_password
+            ? {
+                old_password,
+                password,
+                password_confirmation,
+              }
+            : {}),
+        };
+
+        const response = await api.put('/profile', formData);
+
+        updateUser(response.data);
+
+        Alert.alert('Perfil atualizado com sucesso!');
 
         navigation.goBack();
       } catch (err) {
@@ -89,12 +111,12 @@ const Profile: React.FC = () => {
           return;
         }
         Alert.alert(
-          'Erro no cadastro',
-          'Ocorreu um erro ao realizar o cadastro, tente novamente',
+          'Erro na atualização do perfil',
+          'Ocorreu um erro ao atualizar o seu perfil, tente novamente',
         );
       }
     },
-    [navigation],
+    [navigation, updateUser],
   );
 
   const handleGoback = useCallback(() => {
@@ -125,7 +147,7 @@ const Profile: React.FC = () => {
               <Title>Meu perfil</Title>
             </View>
 
-            <Form ref={formRef} onSubmit={handleSignUp}>
+            <Form initialData={user} ref={formRef} onSubmit={handleSignUp}>
               <Input
                 autoCapitalize="words"
                 name="name"
